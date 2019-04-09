@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Scrapy>=1.0.2
+cffi>=1.12.2
+psycopg2
+apscheduler
+=======
+scrapy
+scrapyd
+scrapy-heroku
+>>>>>>> 10bad541786462cd22e933f7f26af97cf07f2f22
